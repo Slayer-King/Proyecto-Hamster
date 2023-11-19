@@ -1,1 +1,0 @@
-// lista de cosas que hacer motor grafico//
