@@ -1,12 +1,14 @@
 ﻿using System;
 
-class ProyectoHamster
+namespace ProyectoHamsterCsharp
 {
-    static void Main(string[] args)
+    class ProyectoHamster
     {
-
-        Console.WriteLine("Hello, World!");
-
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
 }
+
 
