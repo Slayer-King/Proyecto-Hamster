@@ -1,0 +1,15 @@
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\obj\Debug\net8.0\Proyecto Hamster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\obj\Debug\net8.0\Proyecto Hamster.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\obj\Debug\net8.0\Proyecto Hamster.AssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\obj\Debug\net8.0\Proyecto Hamster.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\obj\Debug\net8.0\Proyecto Hamster.sourcelink.json
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\bin\Debug\net8.0\Proyecto Hamster.exe
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\bin\Debug\net8.0\Proyecto Hamster.deps.json
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\bin\Debug\net8.0\Proyecto Hamster.runtimeconfig.json
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\bin\Debug\net8.0\Proyecto Hamster.dll
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\bin\Debug\net8.0\Proyecto Hamster.pdb
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\obj\Debug\net8.0\Proyecto Hamster.dll
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\obj\Debug\net8.0\refint\Proyecto Hamster.dll
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\obj\Debug\net8.0\Proyecto Hamster.pdb
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\obj\Debug\net8.0\Proyecto Hamster.genruntimeconfig.cache
+C:\Users\PERSONAL\Desktop\Proyecto Hamster\obj\Debug\net8.0\ref\Proyecto Hamster.dll
